@@ -1,5 +1,8 @@
 # Connected-and-automated-vehicle-simulation-platform
-This software is developed based on matlab2018a and is mainly based on cellular automata theory for discrete simulation.
+%This software is developed based on matlab2018a and is mainly based on cellular automata theory for discrete simulation.
+
+
+
 function varargout = GUI_1(varargin)
 % GUI_1 MATLAB code for GUI_1.fig
 %      GUI_1, by itself, creates a new GUI_1 or raises the existing
