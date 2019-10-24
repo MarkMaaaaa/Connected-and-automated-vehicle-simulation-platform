@@ -11,3 +11,11 @@ https://zhuanlan.zhihu.com/p/83978565
 The platform currently includes basic hybrid microsimulations of autonomous and conventional vehicles,connected and autonomous vehicles can appear on highways automatically, and they can follow preceding vehicle, change lanes and accomplish other operations.
 
 In addition, this platform also includes intelligent lane traffic flow attribute model, lane management model, etc., to realize the following, lane change, overtaking, obstacle avoidance and other behaviors of the autonomous vehicle, enabling the vehicle to independently determine its driving strategy and driving track without human intervention.
+
+软件提取链接：
+链接：https://pan.baidu.com/s/1wdD72jOI1SW_QX9VkmnVUQ 
+提取码：kdfn 
+
+Software extraction link：
+link：https://pan.baidu.com/s/1wdD72jOI1SW_QX9VkmnVUQ 
+password：kdfn 
