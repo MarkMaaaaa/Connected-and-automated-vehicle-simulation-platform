@@ -1,5 +1,5 @@
 # Connected-and-automated-vehicle-simulation-platform
-This software is developed based on matlab2018a and is mainly based on cellular automata theory for discrete simulation.
+This software is developed based on matlab2018a and is mainly based on cellular automata theory for discrete traffic flow simulation.
 
 You can download this simulation platform as an 'exe' file at the second link in https://zhuanlan.zhihu.com/p/84507122
 
